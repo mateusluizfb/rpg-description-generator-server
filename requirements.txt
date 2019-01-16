@@ -1,0 +1,7 @@
+flask
+python-dotenv
+schedule
+twitter
+tensorflow
+keras
+textgenrnn
